@@ -42,7 +42,8 @@ I build **full stack** products with a strong **backend** core: **React** on the
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🏆 First Prize — 2025 Global AI Hackathon</h3>
-      <p>Awarded with team <b>Kushal Sri Rangam, Shounak Palnitkar, Jinzhu Gao, Dongbin Lee</b>.</p>
+      <p><b>Massachusetts Institute of Technology (MIT)</b></p>
+      <p>1,300+ participants from 86 countries. Built an AI + IoT solution aligned with the UN Sustainable Development Goals.</p>
       <p>
         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7329297024686739456/">
           <img src="https://img.shields.io/badge/View%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn announcement" />
