@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/California%2C%20USA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="California, USA" />
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PUNAMRAMPUKALE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 </div>
 
 ---
