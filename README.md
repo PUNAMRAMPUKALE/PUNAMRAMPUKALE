@@ -1,8 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=200&section=header&text=Punam%20Pukale&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%2B%20Backend%20%E2%80%A2%20GenAI%20%2F%20LLM%20%E2%80%A2%20Agentic%20AI&descAlignY=58&descSize=16" alt="Punam Pukale" />
+</div>
 
-# Hi, I'm Punam Pukale
-
-**Full Stack + Backend Engineer · GenAI / LLM · Agentic AI**
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=820&lines=Full+Stack+%7C+Backend+%7C+GenAI;React+%7C+Node.js+%7C+Express;Python+%7C+Java+%7C+Spring+Boot;Agent+Harness+%7C+Agent+Loops;Multi-model+Agentic+Systems)](https://github.com/PUNAMRAMPUKALE)
 
