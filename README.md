@@ -13,7 +13,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=820&lines=Full+Stack+%7C+Backend+%7C+GenAI;React+%7C+Node.js+%7C+Express;Python+%7C+Java+%7C+Spring+Boot;Agent+Harness+%7C+Agent+Loops;Multi-model+Agentic+Systems)](https://github.com/PUNAMRAMPUKALE)
 
 <p>
-  <a href="https://www.linkedin.com/in/punam-pukale-a8bb83ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/punam-p/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://punamrampukale.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:punampukale14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/PUNAMRAMPUKALE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/California%2C%20USA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="California, USA" />
@@ -34,6 +35,37 @@
 I build **full stack** products with a strong **backend** core: **React** on the frontend, **Node.js + Express** APIs, plus Python/FastAPI and Java/Spring Boot. On the AI side I build **agent harnesses**, **agent loops**, and **multi-model agentic systems**.
 
 **Open to:** Full Stack Engineer · Backend Engineer · Software Engineer – Backend · GenAI Engineer · AI Platform Engineer · Agentic AI Engineer
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Achievements-111827?style=for-the-badge&logo=trophy&logoColor=FBBF24" alt="Achievements" />
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🏆 First Prize — 2025 Global AI Hackathon</h3>
+      <p>Awarded with team <b>Kushal Sri Rangam, Shounak Palnitkar, Jinzhu Gao, Dongbin Lee</b>.</p>
+      <p>
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7329297024686739456/">
+          <img src="https://img.shields.io/badge/View%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn announcement" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>📄 IEEE Publication — COINS 2025</h3>
+      <p><b>Smart Hat 2.0:</b> An Energy-Aware Wearable Navigation System for Visually Impaired.</p>
+      <p>
+        <a href="https://ieeexplore.ieee.org/document/11105368/authors#authors">
+          <img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -249,7 +281,8 @@ I build **full stack** products with a strong **backend** core: **React** on the
 
 ## Let's connect
 
-<a href="https://www.linkedin.com/in/punam-pukale-a8bb83ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/punam-p/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://punamrampukale.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:punampukale14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/PUNAMRAMPUKALE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
