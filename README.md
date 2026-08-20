@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="assets/profile-header.png" alt="Punam Pukale — Full Stack + Backend Engineer, GenAI, Agentic AI" width="100%" />
+  <img src="assets/profile-header.svg" alt="Punam Pukale — Full Stack + Backend Engineer, GenAI, Agentic AI" width="100%" />
 </div>
 
-<br/>
 
 <div align="center">
 
