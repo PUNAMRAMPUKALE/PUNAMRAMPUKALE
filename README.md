@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Backend systems + LLM platforms + AI agents
+### FullStack + Backend systems + LLM platforms + AI agents
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+%26+GenAI+Engineer;Node.js+%7C+Express+%7C+Python+%7C+Java;Agent+Harness+%7C+Agent+Loops;Multi-model+Agentic+Systems;LLMs+%7C+RAG+%7C+LangGraph)](https://github.com/PUNAMRAMPUKALE)
 
