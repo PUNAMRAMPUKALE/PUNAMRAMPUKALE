@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-header.png" alt="Punam Pukale — Backend Engineer, GenAI, Agentic AI" width="100%" />
+  <img src="assets/profile-header.png" alt="Punam Pukale — Full Stack + Backend Engineer, GenAI, Agentic AI" width="100%" />
 </div>
 
 <br/>
@@ -8,9 +8,9 @@
 
 # Hi, I'm Punam Pukale
 
-**Backend Engineer · GenAI / LLM · Agentic AI**
+**Full Stack + Backend Engineer · GenAI / LLM · Agentic AI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=780&lines=Node.js+%7C+Express+%7C+Python+%7C+Java;Agent+Harness+%7C+Agent+Loops;Multi-model+Agentic+Systems;LLMs+%7C+RAG+%7C+LangGraph)](https://github.com/PUNAMRAMPUKALE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=820&lines=Full+Stack+%7C+Backend+%7C+GenAI;React+%7C+Node.js+%7C+Express;Python+%7C+Java+%7C+Spring+Boot;Agent+Harness+%7C+Agent+Loops;Multi-model+Agentic+Systems)](https://github.com/PUNAMRAMPUKALE)
 
 <p>
   <a href="https://www.linkedin.com/in/punam-pukale-a8bb83ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -31,9 +31,9 @@
 
 <br/>
 
-I build **backend APIs** and **LLM agent platforms**. Stack emphasis: **Node.js + Express**, plus Python/FastAPI and Java/Spring Boot. On the AI side I build **agent harnesses**, **agent loops**, and **multi-model agentic systems**.
+I build **full stack** products with a strong **backend** core: **React** on the frontend, **Node.js + Express** APIs, plus Python/FastAPI and Java/Spring Boot. On the AI side I build **agent harnesses**, **agent loops**, and **multi-model agentic systems**.
 
-**Open to:** Backend Engineer · Software Engineer – Backend · GenAI Engineer · AI Platform Engineer · Agentic AI Engineer
+**Open to:** Full Stack Engineer · Backend Engineer · Software Engineer – Backend · GenAI Engineer · AI Platform Engineer · Agentic AI Engineer
 
 ---
 
@@ -42,6 +42,27 @@ I build **backend APIs** and **LLM agent platforms**. Stack emphasis: **Node.js 
 </div>
 
 <br/>
+
+### Full Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" /><br/><sub><b>Vite</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" /><br/><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" /><br/><sub><b>Redux</b></sub></td>
+  </tr>
+</table>
 
 ### Backend
 
