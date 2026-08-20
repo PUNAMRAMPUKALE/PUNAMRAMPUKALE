@@ -1,93 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:12314A,100:0EA5E9&height=200&section=header&text=Punam%20Pukale&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20GenAI%20%2F%20LLM%20%E2%80%A2%20Agentic%20AI&descAlignY=58&descSize=16" alt="Punam Pukale" />
-</div>
-
-<div align="center">
-
-### FullStack + Backend systems + LLM platforms + AI agents
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+%26+GenAI+Engineer;Node.js+%7C+Express+%7C+Python+%7C+Java;Agent+Harness+%7C+Agent+Loops;Multi-model+Agentic+Systems;LLMs+%7C+RAG+%7C+LangGraph)](https://github.com/PUNAMRAMPUKALE)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Punam%20Pukale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-pukale-a8bb83ba/)
-[![Email](https://img.shields.io/badge/Email-punampukale14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punampukale14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PUNAMRAMPUKALE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PUNAMRAMPUKALE)
-[![Location](https://img.shields.io/badge/Location-California%2C%20USA-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/PUNAMRAMPUKALE)
-
+  <img src="assets/profile-header.png" alt="Punam Pukale — Backend Engineer, GenAI, Agentic AI" width="100%" />
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js%20%2B%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js + Express" />
-  <img src="https://img.shields.io/badge/Backend_Engineering-0F172A?style=for-the-badge" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/GenAI%20%2F%20LLMs-312E81?style=for-the-badge" alt="GenAI / LLMs" />
-  <img src="https://img.shields.io/badge/Agent%20Harness-0F172A?style=for-the-badge" alt="Agent Harness" />
-  <img src="https://img.shields.io/badge/Agent%20Loops-12314A?style=for-the-badge" alt="Agent Loops" />
-  <img src="https://img.shields.io/badge/Multi--model%20Agents-312E81?style=for-the-badge" alt="Multi-model Agents" />
-  <img src="https://img.shields.io/badge/AI%20Platforms-1E3A8A?style=for-the-badge" alt="AI Platforms" />
+<div align="center">
+
+# Hi, I'm Punam Pukale
+
+**Backend Engineer · GenAI / LLM · Agentic AI**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=780&lines=Node.js+%7C+Express+%7C+Python+%7C+Java;Agent+Harness+%7C+Agent+Loops;Multi-model+Agentic+Systems;LLMs+%7C+RAG+%7C+LangGraph)](https://github.com/PUNAMRAMPUKALE)
+
+<p>
+  <a href="https://www.linkedin.com/in/punam-pukale-a8bb83ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:punampukale14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/PUNAMRAMPUKALE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/California%2C%20USA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="California, USA" />
 </p>
+
+</div>
 
 ---
 
-## About
+<div align="center">
+  <img src="assets/icon-backend.png" width="88" alt="Backend" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icon-agents.png" width="88" alt="Agentic AI" />
+</div>
 
-I am a **software engineer** focused on **backend engineering** and **applied GenAI** — not a frontend-only profile, and not an AI-only profile.
+<br/>
 
-I design REST APIs in **Node.js / Express**, **Python (FastAPI)**, and **Java (Spring Boot)** — then put LLM systems on top of them: **agent harnesses**, **agent loops**, **multi-model agentic systems**, **RAG with citations**, and **guarded computer-use agents**.
+I build **backend APIs** and **LLM agent platforms**. Stack emphasis: **Node.js + Express**, plus Python/FastAPI and Java/Spring Boot. On the AI side I build **agent harnesses**, **agent loops**, and **multi-model agentic systems**.
 
 **Open to:** Backend Engineer · Software Engineer – Backend · GenAI Engineer · AI Platform Engineer · Agentic AI Engineer
 
 ---
 
-## What I Build
+<div align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Tech Stack" />
+</div>
 
-<table>
-<tr>
-<td width="50%">
+<br/>
 
 ### Backend
-- REST APIs in **Node.js + Express** (TypeScript)
-- REST APIs in **Python (FastAPI)** and **Java (Spring Boot)**
-- **Express + Prisma + PostgreSQL** services, with auth and validation
-- Modular APIs packaged with **Docker**
 
-</td>
-<td width="50%">
-
-### GenAI / Agentic AI
-- **Agent harnesses**: orchestration, tools, state, patch/validation, and delivery
-- **Agent loops**: plan → retrieve → act → review → retry (and observe → decide → act)
-- **Multi-model agentic systems**: OpenAI, Claude, Gemini, Groq, Ollama behind one layer
-- Grounded **RAG**, evaluation, guardrails, and human escalation
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-### Languages & backend
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
 </p>
 
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express" /><br/><sub><b>Express</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /><br/><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" /><br/><sub><b>Spring</b></sub></td>
+  </tr>
+</table>
+
 ### Data
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -95,70 +80,98 @@ I design REST APIs in **Node.js / Express**, **Python (FastAPI)**, and **Java (S
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /><br/><sub><b>Redis</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" /><br/><sub><b>Prisma</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" /><br/><sub><b>Neo4j</b></sub></td>
+  </tr>
+</table>
+
 ### AI / GenAI
 
-<p>
-  <img src="https://img.shields.io/badge/Agent%20Harness-0F172A?style=for-the-badge" alt="Agent Harness" />
-  <img src="https://img.shields.io/badge/Agent%20Loops-12314A?style=for-the-badge" alt="Agent Loops" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Agent%20Harness-111827?style=for-the-badge" alt="Agent Harness" />
+  <img src="https://img.shields.io/badge/Agent%20Loops-0F766E?style=for-the-badge" alt="Agent Loops" />
   <img src="https://img.shields.io/badge/Multi--model-412991?style=for-the-badge" alt="Multi-model" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/CrewAI-0F172A?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/CrewAI-0B1220?style=for-the-badge" alt="CrewAI" />
   <img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/Weaviate-000000?style=for-the-badge" alt="Weaviate" />
-  <img src="https://img.shields.io/badge/ChromaDB-FC4C02?style=for-the-badge" alt="ChromaDB" />
 </p>
+
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="48" height="48" alt="OpenAI" /><br/><sub><b>OpenAI</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Vertex AI" /><br/><sub><b>Vertex AI</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br/><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /><br/><sub><b>Playwright</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" /><br/><sub><b>Jira</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+  </tr>
+</table>
 
 ### Cloud / infrastructure
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,nodejs,express,postgres,mysql,redis,docker,aws,githubactions,github" alt="Skill icons" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /><br/><sub><b>AWS</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" /><br/><sub><b>Actions</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" /><br/><sub><b>Prometheus</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" /><br/><sub><b>Grafana</b></sub></td>
+  </tr>
+</table>
 
 ---
 
-## Featured Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/Featured%20Projects-111827?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Featured Projects" />
+</div>
 
-Selected for a **Backend + GenAI** portfolio. These repositories were not modified.
+<br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PUNAMRAMPUKALE/autonomous-software-agent">autonomous-software-agent</a></h3>
-      <p><b>Agentic AI</b> · harness, loops, multi-model agents</p>
-      <p>Agent harness that runs a delivery loop: Jira → repo analysis → code/patch → review/test → GitHub PR → Slack. One LLM layer across OpenAI, Claude, Gemini, and Ollama.</p>
+      <h3>🤖 <a href="https://github.com/PUNAMRAMPUKALE/autonomous-software-agent">autonomous-software-agent</a></h3>
+      <p><b>Agent harness · loops · multi-model</b></p>
+      <p>Delivery loop: Jira → retrieve context → patch → review/test → PR → Slack. One LLM layer across OpenAI, Claude, Gemini, Ollama.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Multi--Agent-0F766E?style=flat-square" alt="Multi-agent" />
-        <img src="https://img.shields.io/badge/Tool%20Calling-1E3A8A?style=flat-square" alt="Tool calling" />
+        <img src="https://img.shields.io/badge/Multi--model-412991?style=flat-square" alt="Multi-model" />
+        <img src="https://img.shields.io/badge/Agent%20Loop-0F766E?style=flat-square" alt="Agent Loop" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PUNAMRAMPUKALE/ng12-clinical-agent">ng12-clinical-agent</a></h3>
-      <p><b>RAG / AI platform</b> · grounded FastAPI agents</p>
-      <p>Shared ChromaDB + Vertex AI RAG for decision support and chat. Citations, tool calls over patient records, and explicit refusal without evidence.</p>
+      <h3>📚 <a href="https://github.com/PUNAMRAMPUKALE/ng12-clinical-agent">ng12-clinical-agent</a></h3>
+      <p><b>RAG · FastAPI · LangGraph</b></p>
+      <p>Shared ChromaDB + Vertex AI RAG for decision support and chat, with citations and refusal when evidence is missing.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
-        <img src="https://img.shields.io/badge/ChromaDB-FC4C02?style=flat-square" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PUNAMRAMPUKALE/AI-Layer">AI-Layer</a></h3>
-      <p><b>Computer-use</b> · discovery + deterministic replay</p>
-      <p>LLM discovers a UI flow, stores a versioned capability artifact, then replays with no model in the loop. Allowlists, risky-action gating, HITL escalation.</p>
+      <h3>🖥️ <a href="https://github.com/PUNAMRAMPUKALE/AI-Layer">AI-Layer</a></h3>
+      <p><b>Computer-use loop · harness</b></p>
+      <p>Observe → decide → act discovery, then deterministic replay with allowlists, guardrails, and human escalation.</p>
       <p>
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
         <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" alt="Anthropic" />
@@ -166,34 +179,33 @@ Selected for a **Backend + GenAI** portfolio. These repositories were not modifi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PUNAMRAMPUKALE/finai">finai</a></h3>
-      <p><b>AI platform</b> · RAG + agents + graph</p>
-      <p>Ingestion, insights, recommendations, and CrewAI advice APIs. FastAPI, Weaviate, LangGraph, Neo4j, Postgres, Redis, JWT, Prometheus, Docker Compose.</p>
+      <h3>💹 <a href="https://github.com/PUNAMRAMPUKALE/finai">finai</a></h3>
+      <p><b>AI platform · RAG + agents</b></p>
+      <p>FastAPI ingestion/insights/recommend APIs with Weaviate, LangGraph, CrewAI, Neo4j, Postgres, Redis.</p>
       <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/Weaviate-000000?style=flat-square" alt="Weaviate" />
-        <img src="https://img.shields.io/badge/CrewAI-0F172A?style=flat-square" alt="CrewAI" />
-        <img src="https://img.shields.io/badge/Postgres%20%2B%20Redis-336791?style=flat-square" alt="Postgres Redis" />
+        <img src="https://img.shields.io/badge/CrewAI-0B1220?style=flat-square" alt="CrewAI" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PUNAMRAMPUKALE/llm-model-analyzer-backend-api">llm-model-analyzer-backend-api</a></h3>
-      <p><b>Backend + evaluation</b> · Node.js / Express API</p>
-      <p>Node.js + Express + Prisma + PostgreSQL experiment runner. Groq calls, local quality metrics, SSE progress, JSON/CSV export, Docker Compose.</p>
+      <h3>📊 <a href="https://github.com/PUNAMRAMPUKALE/llm-model-analyzer-backend-api">llm-model-analyzer-backend-api</a></h3>
+      <p><b>Node.js + Express backend</b></p>
+      <p>Express + Prisma + PostgreSQL experiment API, Groq runs, local metrics, SSE streaming.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-        <img src="https://img.shields.io/badge/SSE-0EA5E9?style=flat-square" alt="SSE" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/PUNAMRAMPUKALE/REST_API">REST_API</a></h3>
-      <p><b>Backend</b> · Java Spring Boot</p>
-      <p>Cloud-vendor REST API with Java, Spring Boot, Hibernate, and MySQL. Maven project layout for CRUD-style service design.</p>
+      <h3>☕ <a href="https://github.com/PUNAMRAMPUKALE/REST_API">REST_API</a></h3>
+      <p><b>Java Spring Boot backend</b></p>
+      <p>Cloud-vendor REST API with Spring Boot, Hibernate, and MySQL.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
@@ -201,15 +213,13 @@ Selected for a **Backend + GenAI** portfolio. These repositories were not modifi
   </tr>
 </table>
 
-**Also:** [Transcript-Intelligence](https://github.com/PUNAMRAMPUKALE/Transcript-Intelligence) · [notesphere](https://github.com/PUNAMRAMPUKALE/notesphere) · [MachineLearningProjectWithMLFlow](https://github.com/PUNAMRAMPUKALE/MachineLearningProjectWithMLFlow)
-
 ---
 
-## GitHub
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PUNAMRAMPUKALE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNAMRAMPUKALE&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub Stats" />
+  <br/><br/>
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=PUNAMRAMPUKALE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUNAMRAMPUKALE&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ---
@@ -218,14 +228,10 @@ Selected for a **Backend + GenAI** portfolio. These repositories were not modifi
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-pukale-a8bb83ba/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punampukale14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PUNAMRAMPUKALE)
+<a href="https://www.linkedin.com/in/punam-pukale-a8bb83ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:punampukale14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/PUNAMRAMPUKALE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-**California, USA** · Open to Backend, GenAI, AI Platform, and Agentic AI roles
+Open to Backend, GenAI, AI Platform, and Agentic AI roles · California, USA
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0B1220&height=100&section=footer" alt="" />
 </div>
