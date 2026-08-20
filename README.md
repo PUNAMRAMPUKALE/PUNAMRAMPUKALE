@@ -6,7 +6,7 @@
 
 ### Backend systems + LLM platforms + AI agents
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Backend+%26+GenAI+Engineer;LLMs+%7C+AI+Agents+%7C+RAG;Python+%7C+Java+%7C+Spring+Boot;FastAPI+%7C+LangGraph+%7C+AI+Platforms)](https://github.com/PUNAMRAMPUKALE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+%26+GenAI+Engineer;Node.js+%7C+Express+%7C+Python+%7C+Java;Agent+Harness+%7C+Agent+Loops;Multi-model+Agentic+Systems;LLMs+%7C+RAG+%7C+LangGraph)](https://github.com/PUNAMRAMPUKALE)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Punam%20Pukale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-pukale-a8bb83ba/)
 [![Email](https://img.shields.io/badge/Email-punampukale14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punampukale14@gmail.com)
@@ -18,9 +18,12 @@
 <br/>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js%20%2B%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js + Express" />
   <img src="https://img.shields.io/badge/Backend_Engineering-0F172A?style=for-the-badge" alt="Backend Engineering" />
   <img src="https://img.shields.io/badge/GenAI%20%2F%20LLMs-312E81?style=for-the-badge" alt="GenAI / LLMs" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-0F766E?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Agent%20Harness-0F172A?style=for-the-badge" alt="Agent Harness" />
+  <img src="https://img.shields.io/badge/Agent%20Loops-12314A?style=for-the-badge" alt="Agent Loops" />
+  <img src="https://img.shields.io/badge/Multi--model%20Agents-312E81?style=for-the-badge" alt="Multi-model Agents" />
   <img src="https://img.shields.io/badge/AI%20Platforms-1E3A8A?style=for-the-badge" alt="AI Platforms" />
 </p>
 
@@ -30,7 +33,7 @@
 
 I am a **software engineer** focused on **backend engineering** and **applied GenAI** — not a frontend-only profile, and not an AI-only profile.
 
-I design REST APIs, service boundaries, and data layers, then put LLM systems on top of them: **RAG with citations**, **multi-agent workflows**, **evaluation APIs**, and **guarded computer-use agents**.
+I design REST APIs in **Node.js / Express**, **Python (FastAPI)**, and **Java (Spring Boot)** — then put LLM systems on top of them: **agent harnesses**, **agent loops**, **multi-model agentic systems**, **RAG with citations**, and **guarded computer-use agents**.
 
 **Open to:** Backend Engineer · Software Engineer – Backend · GenAI Engineer · AI Platform Engineer · Agentic AI Engineer
 
@@ -43,19 +46,19 @@ I design REST APIs, service boundaries, and data layers, then put LLM systems on
 <td width="50%">
 
 ### Backend
+- REST APIs in **Node.js + Express** (TypeScript)
 - REST APIs in **Python (FastAPI)** and **Java (Spring Boot)**
-- TypeScript services with **Express + Prisma + PostgreSQL**
-- Auth, validation, persistence, and deployable runtimes
-- Modular services packaged with **Docker**
+- **Express + Prisma + PostgreSQL** services, with auth and validation
+- Modular APIs packaged with **Docker**
 
 </td>
 <td width="50%">
 
 ### GenAI / Agentic AI
-- Grounded **RAG** (vector retrieval + citations)
-- **Multi-agent** delivery pipelines with tools
-- Computer-use: discover → artifact → **deterministic replay**
-- Evaluation, guardrails, and human escalation
+- **Agent harnesses**: orchestration, tools, state, patch/validation, and delivery
+- **Agent loops**: plan → retrieve → act → review → retry (and observe → decide → act)
+- **Multi-model agentic systems**: OpenAI, Claude, Gemini, Groq, Ollama behind one layer
+- Grounded **RAG**, evaluation, guardrails, and human escalation
 
 </td>
 </tr>
@@ -75,10 +78,10 @@ I design REST APIs, service boundaries, and data layers, then put LLM systems on
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
 </p>
 
@@ -95,6 +98,9 @@ I design REST APIs, service boundaries, and data layers, then put LLM systems on
 ### AI / GenAI
 
 <p>
+  <img src="https://img.shields.io/badge/Agent%20Harness-0F172A?style=for-the-badge" alt="Agent Harness" />
+  <img src="https://img.shields.io/badge/Agent%20Loops-12314A?style=for-the-badge" alt="Agent Loops" />
+  <img src="https://img.shields.io/badge/Multi--model-412991?style=for-the-badge" alt="Multi-model" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
   <img src="https://img.shields.io/badge/CrewAI-0F172A?style=for-the-badge" alt="CrewAI" />
@@ -129,8 +135,8 @@ Selected for a **Backend + GenAI** portfolio. These repositories were not modifi
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PUNAMRAMPUKALE/autonomous-software-agent">autonomous-software-agent</a></h3>
-      <p><b>Agentic AI</b> · multi-agent software delivery</p>
-      <p>Jira → repo analysis → code/patch → review/test → GitHub PR → Slack. Provider-agnostic LLMs (OpenAI, Claude, Gemini, Ollama).</p>
+      <p><b>Agentic AI</b> · harness, loops, multi-model agents</p>
+      <p>Agent harness that runs a delivery loop: Jira → repo analysis → code/patch → review/test → GitHub PR → Slack. One LLM layer across OpenAI, Claude, Gemini, and Ollama.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Multi--Agent-0F766E?style=flat-square" alt="Multi-agent" />
@@ -173,10 +179,11 @@ Selected for a **Backend + GenAI** portfolio. These repositories were not modifi
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PUNAMRAMPUKALE/llm-model-analyzer-backend-api">llm-model-analyzer-backend-api</a></h3>
-      <p><b>Backend + evaluation</b> · production API design</p>
-      <p>Express + Prisma + PostgreSQL experiment runner. Groq calls, local quality metrics, SSE progress, JSON/CSV export, Docker Compose.</p>
+      <p><b>Backend + evaluation</b> · Node.js / Express API</p>
+      <p>Node.js + Express + Prisma + PostgreSQL experiment runner. Groq calls, local quality metrics, SSE progress, JSON/CSV export, Docker Compose.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
         <img src="https://img.shields.io/badge/SSE-0EA5E9?style=flat-square" alt="SSE" />
       </p>
